@@ -1,0 +1,3 @@
+[submodule "ref_llama_streamlit"]
+	path = ref_llama_streamlit
+	url = https://github.com/carolinedlu/llamaindex-chat-with-streamlit-docs.git

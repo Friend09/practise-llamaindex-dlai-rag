@@ -6,3 +6,6 @@ llama-index==0.10.27
 llama-index-llms-openai==0.1.15
 llama-index-embeddings-openai==0.1.7
 llama-index-embeddings-ollama
+streamlit
+chainlit
+watchdog
